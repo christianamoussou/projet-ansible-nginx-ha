@@ -1,0 +1,6 @@
+---
+- name: Déploiement HA de Nginx
+  hosts: web
+  become: yes
+  roles:
+    - nginx

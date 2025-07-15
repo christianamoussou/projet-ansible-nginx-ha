@@ -1,0 +1,2 @@
+nginx_port: 80
+ha_enabled: true
